@@ -7,4 +7,4 @@ HOW TO USE
 2. Open your game and go into queue.
 3. Run AutoAcceptLeague.exe and go afk.
 
-OBS: this program might not work if your client is positioned on your secondary monitor, but idk since i havent tried it.
+Issue: This program might not work if your client is positioned on your secondary monitor, but idk since i havent tried it.
